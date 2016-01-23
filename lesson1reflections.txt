@@ -1,0 +1,27 @@
+lesson_1_reflections are here. 
+cd means current directory
+val@valpc is mine. 
+fc = file compare
+these are going to be lines of text that will hopefully show
+up if i'm able to get notepadd++ to be happy with GitBash.
+
+
+add more text here on how having the second version of something 
+archived automatically is totally kick-ass. 
+
+VERSION CONTROL
+commit: each unique save (multi-file).
+diff: differences between 2 commits KEEP COMMITS SMALL
+ONE COMMIT PER LOGICAL CHANGE. 
+
+repository: the versions of each commit. commit holds
+all files in your thing.
+copy paste are different -> LOOK at shortcut comands again to figure it out. 
+
+git clone: all the previous 
+
+git checkout: kinda like resetting all files at a previous commit. 
+
+have the other custom ones downloaded, not setup because
+i don't understand home directories and calling things 
+from command lines as well as i should yet. 
