@@ -1,2 +1,7 @@
 lesson_2. 
 i'm getting somewhere with this, it is good. 
+
+use staging are to make sure you have one commit 
+per logical change by not staging too many files at a time.
+
+branches are cool and totally needed.  
